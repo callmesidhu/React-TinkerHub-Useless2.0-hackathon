@@ -41,7 +41,7 @@ export default function SoulDetailPage() {
 
       <div className="grid gap-10 md:grid-cols-2">
         <div>
-          <img src={soul.image} alt={`Full portrait of ${soul.name}, whimsical ghost`} className="w-full rounded-xl border opacity-95" />
+          <img src={soul.image} alt={`Full portrait of ₹{soul.name}, whimsical ghost`} className="w-full rounded-xl border opacity-95" />
         </div>
         <div>
           <h1 className="font-display text-4xl font-bold">{soul.name}</h1>
@@ -62,7 +62,7 @@ export default function SoulDetailPage() {
           </div>
 
           <div className="mt-8 flex items-center gap-3">
-            <Button variant="glow" onClick={() => addToCart(soul.id)}>Add to Cart – ${soul.price.toFixed(2)}</Button>
+            <Button variant="glow" onClick={() => addToCart(soul.id)}>Add to Cart – ₹{soul.price.toFixed(2)}</Button>
             <Button variant="hero" onClick={() => { addToCart(soul.id); navigate('/checkout'); }}>Buy Now</Button>
           </div>
         </div>

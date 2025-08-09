@@ -35,7 +35,7 @@ export default function SoulCard({ soul }: { soul: Soul }) {
       </div>
       <p className="mt-2 line-clamp-2 text-sm text-muted-foreground">{soul.oneLiner}</p>
       <div className="mt-4 flex items-center justify-between">
-        <span className="text-sm font-semibold">${soul.price.toFixed(2)}</span>
+        <span className="text-sm font-semibold">₹{soul.price.toFixed(2)}</span>
         <div className="flex gap-2">
           <Link to={`/soul/${soul.id}`}>
             <Button variant="outline" size="sm" className="group/button">

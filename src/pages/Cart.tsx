@@ -37,7 +37,7 @@ export default function CartPage() {
                   </div>
                 </div>
                 <div className="text-right">
-                  <div className="font-semibold">${(soul.price * item.qty).toFixed(2)}</div>
+                  <div className="font-semibold">₹{(soul.price * item.qty).toFixed(2)}</div>
                   <button onClick={() => removeFromCart(item.id)} className="mt-2 inline-flex items-center gap-1 text-sm text-destructive">
                     <Trash2 className="h-4 w-4" /> Remove
                   </button>
@@ -49,7 +49,7 @@ export default function CartPage() {
           <aside className="h-fit rounded-xl border p-6">
             <div className="flex items-center justify-between">
               <span className="text-sm text-muted-foreground">Subtotal</span>
-              <span className="font-semibold">${cartTotal.toFixed(2)}</span>
+              <span className="font-semibold">₹{cartTotal.toFixed(2)}</span>
             </div>
             <Button className="mt-4 w-full" variant="glow" onClick={() => navigate('/checkout')}>Checkout</Button>
             <Link to="/souls" className="mt-2 inline-flex w-full justify-center">
