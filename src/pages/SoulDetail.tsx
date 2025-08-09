@@ -3,12 +3,16 @@ import { useStore } from "@/state/store";
 import { Button } from "@/components/ui/button";
 import { SEO } from "@/components/SEO";
 import SoulCard from "@/components/products/SoulCard";
+import { useEffect } from "react";
 
 export default function SoulDetailPage() {
   const { id } = useParams();
   const { souls, addToCart } = useStore();
   const navigate = useNavigate();
   const soul = souls.find((s) => s.id === id);
+    useEffect(() => {
+    window.scrollTo(0, 0);
+  }, []);
 
   if (!soul) {
     return (
