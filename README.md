@@ -42,14 +42,15 @@ npm run dev
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+<img width="1917" height="1079" alt="Screenshot 2025-08-09 193907" src="https://github.com/user-attachments/assets/ac340d45-23d1-4d6c-948c-0283d086e0e7" />
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+<img width="1919" height="1078" alt="Screenshot 2025-08-09 193040" src="https://github.com/user-attachments/assets/d0410407-680d-45d9-bee3-c146c878b161" />
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+<img width="1896" height="1079" alt="Screenshot 2025-08-09 193807" src="https://github.com/user-attachments/assets/6cf5425f-4918-4395-a745-ce61085d3f32" />
+
+<img width="1919" height="1079" alt="Screenshot 2025-08-09 193837" src="https://github.com/user-attachments/assets/963f3643-6f8d-4974-b774-5635a7c5bf90" />
+
+<img width="1895" height="1079" alt="Screenshot 2025-08-09 193850" src="https://github.com/user-attachments/assets/e11c3f5c-1c1a-4e16-a205-bab93fde854c" />
 
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
