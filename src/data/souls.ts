@@ -18,24 +18,6 @@ export type Soul = {
 
 export const souls: Soul[] = [
   {
-  id: "innocent",
-  name: "Innocent Vareed Thekkethala",
-  origin: "Irnakkad, Thrissur, Kerala, India",
-  ageAtDeath: 75,
-  dateOfDeath: "2023-03-26",
-  height: "5'8\"",
-  weight: "Comedy-light",
-  era: "20th–21st Century",
-  location: "Asia",
-  personality: "Beloved Comedian",
-  oneLiner: "Still bringing laughter from beyond.",
-  causeOfDeath: "Cancer",
-  favoriteHauntingLocations: ["Film sets", "Comedy stages"],
-  price: Math.floor(Math.random() * (30000 - 10000 + 1)) + 10000,
-  image: "https://media.themoviedb.org/t/p/w500/zJ4mjbYYo7Z7Gva8pl1Q2czs7a7.jpg",
-}
-,
-  {
   id: "aithihyamala-vasu",
   name: "Vallathol Narayana Menon",
   origin: "Chennara, Thrissur, Kerala",
