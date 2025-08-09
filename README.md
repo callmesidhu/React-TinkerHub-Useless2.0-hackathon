@@ -41,17 +41,27 @@ npm run dev
 ### Project Documentation
 For Software:
 
-# Screenshots (Add at least 3)
-<img width="1917" height="1079" alt="Screenshot 2025-08-09 193907" src="https://github.com/user-attachments/assets/ac340d45-23d1-4d6c-948c-0283d086e0e7" />
+# Screenshots
+<img width="1898" height="1079" alt="1" src="https://github.com/user-attachments/assets/0dcd3623-d6f1-4d4e-ac06-a16586325d3c" />
+Landing page
 
-<img width="1919" height="1078" alt="Screenshot 2025-08-09 193040" src="https://github.com/user-attachments/assets/d0410407-680d-45d9-bee3-c146c878b161" />
+<img width="1919" height="1078" alt="l5" src="https://github.com/user-attachments/assets/8811e257-543d-4b1b-9866-ec59c86e713c" />
+The main marketplace browse page where you can filter deceased celebrities by era and location, because even in the afterlife market, user experience matters.
 
-<img width="1896" height="1079" alt="Screenshot 2025-08-09 193807" src="https://github.com/user-attachments/assets/6cf5425f-4918-4395-a745-ce61085d3f32" />
+<img width="1901" height="1079" alt="l4" src="https://github.com/user-attachments/assets/216eb3cb-b569-4733-86a4-2a1b0b2d3719" />
+A product detail page treating Albert Einstein like an Amazon listing, complete with specs like 'Height: 5'9"' and 'Cause: Abdominal aortic aneurysm
 
-<img width="1919" height="1079" alt="Screenshot 2025-08-09 193837" src="https://github.com/user-attachments/assets/963f3643-6f8d-4974-b774-5635a7c5bf90" />
+<img width="1896" height="1079" alt="l3" src="https://github.com/user-attachments/assets/33dfc792-9485-4435-97c9-7b639f80b129" />
+A wishlist feature for when you can't afford Einstein and Shakespeare right now but want to bookmark them for your next supernatural shopping spree.
 
-<img width="1895" height="1079" alt="Screenshot 2025-08-09 193850" src="https://github.com/user-attachments/assets/e11c3f5c-1c1a-4e16-a205-bab93fde854c" />
+<img width="1919" height="1079" alt="l2" src="https://github.com/user-attachments/assets/e560cf47-918c-405a-a5ad-9ab1a5ea1937" />
+Your standard shopping cart UI, casually displaying famous historical figures like Prem Nazir and Charlie Chaplin with their souls priced like luxury items.
 
+<img width="1895" height="1079" alt="l1" src="https://github.com/user-attachments/assets/05c8b751-4edb-47e7-8bc5-491a847b3f69" />
+A reservation system with QR code payment because apparently even soul trafficking has gone contactless and requires GST compliance.
+
+<img width="1917" height="1079" alt="l" src="https://github.com/user-attachments/assets/5d6b1174-aa69-4e8a-932a-d71b53626a6f" />
+Your typical e-commerce success page, except instead of buying shoes you've just purchased someone's eternal essence with next-day delivery.
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
 *Add caption explaining your workflow*.
