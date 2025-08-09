@@ -18,7 +18,7 @@ export default function CheckoutPage() {
       t = window.setTimeout(() => {
         clearCart();
         navigate("/success");
-      }, 120000);
+      }, 30000);
     }
     return () => t && clearTimeout(t);
   }, [paying, navigate, clearCart]);

@@ -35,23 +35,6 @@ export const souls: Soul[] = [
     image: "https://upload.wikimedia.org/wikipedia/commons/4/46/Albert_Einstein_sticks_his_tongue.jpg",
   },
   {
-    id: "marilyn-monroe",
-    name: "Marilyn Monroe",
-    origin: "Los Angeles, USA",
-    ageAtDeath: 36,
-    dateOfDeath: "1962-08-04",
-    height: "5'5\"",
-    weight: "Glamour-light",
-    era: "Mid-20th Century",
-    location: "North America",
-    personality: "Magnetic",
-    oneLiner: "Keeps the spotlight even in the afterlife.",
-    causeOfDeath: "Barbiturate overdose (probable suicide)",
-    favoriteHauntingLocations: ["Hollywood sets", "Vanity mirrors"],
-    price: Math.floor(Math.random() * (30000 - 10000 + 1)) + 10000,
-    image: "https://upload.wikimedia.org/wikipedia/commons/8/89/Marilyn_Monroe_in_1953.jpg",
-  },
-  {
     id: "nikola-tesla",
     name: "Nikola Tesla",
     origin: "Smiljan, Austrian Empire (now Croatia)",
@@ -83,7 +66,7 @@ export const souls: Soul[] = [
     causeOfDeath: "Suicide (traditional account: asp bite)",
     favoriteHauntingLocations: ["Palaces", "Nile riverbanks"],
     price: Math.floor(Math.random() * (30000 - 10000 + 1)) + 10000,
-    image: "https://upload.wikimedia.org/wikipedia/commons/2/28/Cleopatra-VII.-Altes-Museum-Berlin1.jpg",
+    image: "https://hips.hearstapps.com/hmg-prod/images/the-toilette-of-cleopatra-by-benedetto-servolini-and-news-photo-1683642847.jpg?crop=0.413xw:0.336xh;0.197xw,0.0663xh&resize=640",
   },
   {
     id: "william-shakespeare",
@@ -117,7 +100,7 @@ export const souls: Soul[] = [
     causeOfDeath: "Pulmonary embolism",
     favoriteHauntingLocations: ["Art studios", "Flower gardens"],
     price: Math.floor(Math.random() * (30000 - 10000 + 1)) + 10000,
-    image: "https://upload.wikimedia.org/wikipedia/commons/1/1f/Frida_Kahlo_%28self_portrait%29.jpg",
+    image: "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcS6yilYse-3Z9ZX4klIE95HOlVaegynJ7cQLM7bs3Xj5HR_EyA23TxawjIPibIew0KRf4sT7OVoedrHhzU",
   },
   {
     id: "leonardo-da-vinci",
@@ -134,25 +117,9 @@ export const souls: Soul[] = [
     causeOfDeath: "Stroke",
     favoriteHauntingLocations: ["Art studios", "Workshops"],
     price: Math.floor(Math.random() * (30000 - 10000 + 1)) + 10000,
-    image: "https://upload.wikimedia.org/wikipedia/commons/e/e4/Leonardo_da_Vinci_-_presumed_self-portrait_-_WGA12798.jpg",
+    image: "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQgAgPpQ3XkIvdohs4895lMgXWc2otUhvFp07duEkuDxrPzZ84uos0qsCyF1PnCS6MY6D7glQrO_smPV5zb9ip5gA",
   },
-  {
-    id: "julius-caesar",
-    name: "Julius Caesar",
-    origin: "Rome, Roman Republic",
-    ageAtDeath: 55,
-    dateOfDeath: "-0044-03-15",
-    height: "5'7\"",
-    weight: "Legion-light",
-    era: "Classical Antiquity",
-    location: "Europe",
-    personality: "Strategic Leader",
-    oneLiner: "Et tu, shopper?",
-    causeOfDeath: "Assassination (stab wounds)",
-    favoriteHauntingLocations: ["Senates", "Battlefields"],
-    price: Math.floor(Math.random() * (30000 - 10000 + 1)) + 10000,
-    image: "https://upload.wikimedia.org/wikipedia/commons/5/5b/Gaius_Julius_Caesar_%28Vatican_Museum%29.jpg",
-  },
+  
   {
     id: "charlie-chaplin",
     name: "Charlie Chaplin",
@@ -168,7 +135,7 @@ export const souls: Soul[] = [
     causeOfDeath: "Stroke",
     favoriteHauntingLocations: ["Film sets", "Vaudeville stages"],
     price: Math.floor(Math.random() * (30000 - 10000 + 1)) + 10000,
-    image: "https://upload.wikimedia.org/wikipedia/commons/8/87/Charlie_Chaplin.jpg",
+    image: "https://cdn.britannica.com/35/23735-050-B07CCABA/Charlie-Chaplin-Little-Tramp.jpg?w=400&h=300&c=crop",
   },
   {
     id: "alexander-the-great",
@@ -185,7 +152,7 @@ export const souls: Soul[] = [
     causeOfDeath: "Fever (possibly typhoid or poisoning)",
     favoriteHauntingLocations: ["Battlefields", "Palaces"],
     price: Math.floor(Math.random() * (30000 - 10000 + 1)) + 10000,
-    image: "https://upload.wikimedia.org/wikipedia/commons/9/9a/Alexander_the_Great_mosaic.jpg",
+    image: "https://cdn.britannica.com/95/121095-050-21005309/Alexander-the-Great-detail-painting-Porus-Charles.jpg",
   },
   {
     id: "isaac-newton",
@@ -202,7 +169,7 @@ export const souls: Soul[] = [
     causeOfDeath: "Natural causes",
     favoriteHauntingLocations: ["Observatories", "Apple orchards"],
     price: Math.floor(Math.random() * (30000 - 10000 + 1)) + 10000,
-    image: "https://upload.wikimedia.org/wikipedia/commons/d/d1/Sir_Isaac_Newton_%281642-1727%29.jpg",
+    image: "https://cdn.mos.cms.futurecdn.net/v2/t:0,l:325,cw:836,ch:836,q:80,w:836/3buDqF4oZrEByNRVBgYwmm.jpg",
   },
   {
     id: "vincent-van-gogh",
@@ -219,7 +186,7 @@ export const souls: Soul[] = [
     causeOfDeath: "Gunshot wound (suicide)",
     favoriteHauntingLocations: ["Fields", "Cafés"],
     price: Math.floor(Math.random() * (30000 - 10000 + 1)) + 10000,
-    image: "https://upload.wikimedia.org/wikipedia/commons/b/b0/Vincent_van_Gogh_-_Self-portrait_-_Google_Art_Project.jpg",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbqFMP76xUE068jqAC89bXj3z46QWLgjN4t4kUWp3WASObTQYhAy4Sgk9oPaEl7aKqTwl0XBT1wVCSl6U2oU1By3L1lwK5E-DzTj6fwQ8",
   },
   {
     id: "mahatma-gandhi",
@@ -253,7 +220,7 @@ export const souls: Soul[] = [
     causeOfDeath: "Stomach cancer (suspected arsenic poisoning)",
     favoriteHauntingLocations: ["Battlefields", "War rooms"],
     price: Math.floor(Math.random() * (30000 - 10000 + 1)) + 10000,
-    image: "https://upload.wikimedia.org/wikipedia/commons/5/50/Napoleon_Bonaparte.jpg",
+    image: "https://cdn.britannica.com/94/115194-131-45D81E23/Emperor-Napoleon-in-His-Study-canvas-Tuileries-1812.jpg?w=200&h=200&c=crop",
   },
   {
     id: "florence-nightingale",
@@ -270,7 +237,7 @@ export const souls: Soul[] = [
     causeOfDeath: "Natural causes",
     favoriteHauntingLocations: ["Hospitals", "Battlefield camps"],
     price: Math.floor(Math.random() * (30000 - 10000 + 1)) + 10000,
-    image: "https://upload.wikimedia.org/wikipedia/commons/7/7d/Florence_Nightingale_%28H_Hering_NPG_x82368%29.jpg",
+    image: "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcRKCgDpIep6Zd5OdX-ac8YYuvn2chqj5Rpss9NuxwVY_Fr1PU1FJnoFpR06aKYZgny8DwArloao2yoSQqY",
   },
   {
     id: "abraham-lincoln",
@@ -287,7 +254,7 @@ export const souls: Soul[] = [
     causeOfDeath: "Assassination (gunshot)",
     favoriteHauntingLocations: ["White House", "Theatres"],
     price: Math.floor(Math.random() * (30000 - 10000 + 1)) + 10000,
-    image: "https://upload.wikimedia.org/wikipedia/commons/a/a0/Abraham_Lincoln_O-77_matte_collodion_print.jpg",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdafM3JFqbGBIX6sK78DPLNqdoYY1ylRzUgvNzeeZS8M1D9Xz2gC12cI0oqx8aV2DNDjBUM3LOtVq7mUA-l3iEZzVksGuEwyocEp73UQ",
   },
   {
     id: "joan-of-arc",
@@ -304,7 +271,7 @@ export const souls: Soul[] = [
     causeOfDeath: "Execution (burned at the stake)",
     favoriteHauntingLocations: ["Battlefields", "Cathedrals"],
     price: Math.floor(Math.random() * (30000 - 10000 + 1)) + 10000,
-    image: "https://upload.wikimedia.org/wikipedia/commons/1/17/Joan_of_Arc_miniature_graded.jpg",
+    image: "https://cdn.britannica.com/43/130343-050-B716FC6B/St-Joan-of-Arc-patriot-martyr-French-May-30-1431.jpg",
   },
   {
     id: "marie-curie",
@@ -321,7 +288,7 @@ export const souls: Soul[] = [
     causeOfDeath: "Aplastic anemia (radiation exposure)",
     favoriteHauntingLocations: ["Laboratories", "Libraries"],
     price: Math.floor(Math.random() * (30000 - 10000 + 1)) + 10000,
-    image: "https://upload.wikimedia.org/wikipedia/commons/6/69/Marie_Curie_c1920.jpg",
+    image: "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRP2WxOmd7aHIwmAazf45QXtZuMl5Nl_h2cuZZsFjqQQyBJTE_BRQQD-QIVim2xttO3nHyzpw2S3tIxgdi0NhkoVmxw0DSzkvSdNl-FqQ",
   }
 ];
 
