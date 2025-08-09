@@ -62,9 +62,6 @@ A reservation system with QR code payment because apparently even soul trafficki
 
 <img width="1917" height="1079" alt="l" src="https://github.com/user-attachments/assets/5d6b1174-aa69-4e8a-932a-d71b53626a6f" />
 Your typical e-commerce success page, except instead of buying shoes you've just purchased someone's eternal essence with next-day delivery.
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*.
 
 ### Project Demo
 # Video
