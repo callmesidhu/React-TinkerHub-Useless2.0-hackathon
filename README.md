@@ -1,20 +1,21 @@
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
 
-# [Project Name] 🎯
+# Soul Cart 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: XyphX
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: S SIDHARTH - College Of Engineering Trivandrum
+- Member 2: Gayathry Rajeev - College Of Engineering Trivandrum
 
 ### Project Description
-[2-3 lines about what your project does]
+SoulCart began when a particularly friendly specter insisted on helping us fold laundry. Since then, we’ve dedicated ourselves to matching exceptional spirits with equally exceptional people. Every soul is curated with care, documented with whimsy, and delivered with a gentle whoosh.
+
+This is a playful, satirical e-commerce prototype built for fun and for learning modern full-stack patterns: responsive UI, cart flows, payment(QR), product listings, wishlist, and order lifecycle. All data and souls are fictional.
 
 ### The Problem (that doesn't exist)
 [What ridiculous problem are you solving?]
