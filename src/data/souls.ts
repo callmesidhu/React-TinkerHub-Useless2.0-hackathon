@@ -17,23 +17,7 @@ export type Soul = {
 };
 
 export const souls: Soul[] = [
-  {
-  id: "aithihyamala-vasu",
-  name: "Vallathol Narayana Menon",
-  origin: "Chennara, Thrissur, Kerala",
-  ageAtDeath: 78,
-  dateOfDeath: "1958-03-13",
-  height: "5'6\"",
-  weight: "Poetry-light",
-  era: "20th Century",
-  location: "Asia",
-  personality: "Literary Visionary",
-  oneLiner: "Still weaving words in Malayalam verse.",
-  causeOfDeath: "Natural causes",
-  favoriteHauntingLocations: ["Poetry recitals", "Kathakali performances"],
-  price: Math.floor(Math.random() * (30000 - 10000 + 1)) + 10000,
-  image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGuyZZDEG-p4OImfmLIItISnLxqvnNChbyGBAfsuVVQqHiOHjiEVNgiL8WEi6mpU3f75hDsOgn6JCgZiXnJacgh5HAGI_Plj788KAZDIEbdKzUsGlSqh1cgAGmI4WnuelOTKkH8krKpeU/s1600/vallathol3.gif",
-},
+ 
 {
   id: "kunjali-maran",
   name: "Kunjali Marakkar IV",

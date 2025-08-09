@@ -18,31 +18,25 @@ SoulCart began when a particularly friendly specter insisted on helping us fold 
 This is a playful, satirical e-commerce prototype built for fun and for learning modern full-stack patterns: responsive UI, cart flows, payment(QR), product listings, wishlist, and order lifecycle. All data and souls are fictional.
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+Tired of buying boring, physical things like clothes, phones, and groceries? Fed up with shopping for stuff that actually exists in the real world? In today’s fast-paced, materialistic society, there’s a severe shortage of places to purchase the one thing that truly matters — souls. Billions of people go about their lives never owning even a single extra spirit. Shocking. Unacceptable. Spiritually empty.
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+Enter Soul Cart — the world’s first (and only) online marketplace dedicated to buying, reserving, and collecting one-of-a-kind souls. We’ve combined state-of-the-art ecommerce tech with ancient afterlife procurement techniques to deliver spirits straight to your digital cart. Want to prebook a 17th-century poet’s soul? Done. Pay via QR code. Add souls to your wishlist like you’re building a supernatural Pokémon collection? You bet.
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
-
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- TypeScript
+- React vite
+- OpenAI 
 
 ### Implementation
 For Software:
 # Installation
-[commands]
+npm install
 
 # Run
-[commands]
+npm run dev
 
 ### Project Documentation
 For Software:
@@ -59,39 +53,12 @@ For Software:
 
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
-
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
+*Add caption explaining your workflow*.
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+https://drive.google.com/file/d/1Kk2XGvLBGBfhh1KJE4rjQ-vG-l8FAMRW/view?usp=sharing
 
-# Additional Demos
-[Add any extra demo materials/links]
-
-## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
